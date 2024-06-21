@@ -1,0 +1,14 @@
+C:\Users\onssh\source\repos\C#(масив, енам)\04_IntroOOP_HomeWork\bin\Debug\net8.0\04_IntroOOP_HomeWork.exe
+C:\Users\onssh\source\repos\C#(масив, енам)\04_IntroOOP_HomeWork\bin\Debug\net8.0\04_IntroOOP_HomeWork.deps.json
+C:\Users\onssh\source\repos\C#(масив, енам)\04_IntroOOP_HomeWork\bin\Debug\net8.0\04_IntroOOP_HomeWork.runtimeconfig.json
+C:\Users\onssh\source\repos\C#(масив, енам)\04_IntroOOP_HomeWork\bin\Debug\net8.0\04_IntroOOP_HomeWork.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\04_IntroOOP_HomeWork\bin\Debug\net8.0\04_IntroOOP_HomeWork.pdb
+C:\Users\onssh\source\repos\C#(масив, енам)\04_IntroOOP_HomeWork\obj\Debug\net8.0\04_IntroOOP_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onssh\source\repos\C#(масив, енам)\04_IntroOOP_HomeWork\obj\Debug\net8.0\04_IntroOOP_HomeWork.AssemblyInfoInputs.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\04_IntroOOP_HomeWork\obj\Debug\net8.0\04_IntroOOP_HomeWork.AssemblyInfo.cs
+C:\Users\onssh\source\repos\C#(масив, енам)\04_IntroOOP_HomeWork\obj\Debug\net8.0\04_IntroOOP_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\04_IntroOOP_HomeWork\obj\Debug\net8.0\04_IntroOOP_HomeWork.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\04_IntroOOP_HomeWork\obj\Debug\net8.0\refint\04_IntroOOP_HomeWork.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\04_IntroOOP_HomeWork\obj\Debug\net8.0\04_IntroOOP_HomeWork.pdb
+C:\Users\onssh\source\repos\C#(масив, енам)\04_IntroOOP_HomeWork\obj\Debug\net8.0\04_IntroOOP_HomeWork.genruntimeconfig.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\04_IntroOOP_HomeWork\obj\Debug\net8.0\ref\04_IntroOOP_HomeWork.dll
