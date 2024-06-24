@@ -1,0 +1,14 @@
+C:\Users\onssh\source\repos\C#(масив, енам)\05_StructRefOut_HomeWork\bin\Debug\net8.0\05_StructRefOut_HomeWork.exe
+C:\Users\onssh\source\repos\C#(масив, енам)\05_StructRefOut_HomeWork\bin\Debug\net8.0\05_StructRefOut_HomeWork.deps.json
+C:\Users\onssh\source\repos\C#(масив, енам)\05_StructRefOut_HomeWork\bin\Debug\net8.0\05_StructRefOut_HomeWork.runtimeconfig.json
+C:\Users\onssh\source\repos\C#(масив, енам)\05_StructRefOut_HomeWork\bin\Debug\net8.0\05_StructRefOut_HomeWork.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\05_StructRefOut_HomeWork\bin\Debug\net8.0\05_StructRefOut_HomeWork.pdb
+C:\Users\onssh\source\repos\C#(масив, енам)\05_StructRefOut_HomeWork\obj\Debug\net8.0\05_StructRefOut_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onssh\source\repos\C#(масив, енам)\05_StructRefOut_HomeWork\obj\Debug\net8.0\05_StructRefOut_HomeWork.AssemblyInfoInputs.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\05_StructRefOut_HomeWork\obj\Debug\net8.0\05_StructRefOut_HomeWork.AssemblyInfo.cs
+C:\Users\onssh\source\repos\C#(масив, енам)\05_StructRefOut_HomeWork\obj\Debug\net8.0\05_StructRefOut_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\05_StructRefOut_HomeWork\obj\Debug\net8.0\05_StructRefOut_HomeWork.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\05_StructRefOut_HomeWork\obj\Debug\net8.0\refint\05_StructRefOut_HomeWork.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\05_StructRefOut_HomeWork\obj\Debug\net8.0\05_StructRefOut_HomeWork.pdb
+C:\Users\onssh\source\repos\C#(масив, енам)\05_StructRefOut_HomeWork\obj\Debug\net8.0\05_StructRefOut_HomeWork.genruntimeconfig.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\05_StructRefOut_HomeWork\obj\Debug\net8.0\ref\05_StructRefOut_HomeWork.dll
