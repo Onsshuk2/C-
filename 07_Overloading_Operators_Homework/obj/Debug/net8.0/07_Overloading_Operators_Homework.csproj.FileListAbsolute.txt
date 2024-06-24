@@ -1,0 +1,14 @@
+C:\Users\onssh\source\repos\C#(масив, енам)\07_Overloading_Operators_Classwork\bin\Debug\net8.0\07_Overloading_Operators_Homework.exe
+C:\Users\onssh\source\repos\C#(масив, енам)\07_Overloading_Operators_Classwork\bin\Debug\net8.0\07_Overloading_Operators_Homework.deps.json
+C:\Users\onssh\source\repos\C#(масив, енам)\07_Overloading_Operators_Classwork\bin\Debug\net8.0\07_Overloading_Operators_Homework.runtimeconfig.json
+C:\Users\onssh\source\repos\C#(масив, енам)\07_Overloading_Operators_Classwork\bin\Debug\net8.0\07_Overloading_Operators_Homework.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\07_Overloading_Operators_Classwork\bin\Debug\net8.0\07_Overloading_Operators_Homework.pdb
+C:\Users\onssh\source\repos\C#(масив, енам)\07_Overloading_Operators_Classwork\obj\Debug\net8.0\07_Overloading_Operators_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onssh\source\repos\C#(масив, енам)\07_Overloading_Operators_Classwork\obj\Debug\net8.0\07_Overloading_Operators_Homework.AssemblyInfoInputs.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\07_Overloading_Operators_Classwork\obj\Debug\net8.0\07_Overloading_Operators_Homework.AssemblyInfo.cs
+C:\Users\onssh\source\repos\C#(масив, енам)\07_Overloading_Operators_Classwork\obj\Debug\net8.0\07_Overloading_Operators_Homework.csproj.CoreCompileInputs.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\07_Overloading_Operators_Classwork\obj\Debug\net8.0\07_Overloading_Operators_Homework.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\07_Overloading_Operators_Classwork\obj\Debug\net8.0\refint\07_Overloading_Operators_Homework.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\07_Overloading_Operators_Classwork\obj\Debug\net8.0\07_Overloading_Operators_Homework.pdb
+C:\Users\onssh\source\repos\C#(масив, енам)\07_Overloading_Operators_Classwork\obj\Debug\net8.0\07_Overloading_Operators_Homework.genruntimeconfig.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\07_Overloading_Operators_Classwork\obj\Debug\net8.0\ref\07_Overloading_Operators_Homework.dll
