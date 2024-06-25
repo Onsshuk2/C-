@@ -1,0 +1,14 @@
+C:\Users\onssh\source\repos\C#(масив, енам)\05_Exceptions_Classwork\bin\Debug\net8.0\06_Exceptions_Homework.exe
+C:\Users\onssh\source\repos\C#(масив, енам)\05_Exceptions_Classwork\bin\Debug\net8.0\06_Exceptions_Homework.deps.json
+C:\Users\onssh\source\repos\C#(масив, енам)\05_Exceptions_Classwork\bin\Debug\net8.0\06_Exceptions_Homework.runtimeconfig.json
+C:\Users\onssh\source\repos\C#(масив, енам)\05_Exceptions_Classwork\bin\Debug\net8.0\06_Exceptions_Homework.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\05_Exceptions_Classwork\bin\Debug\net8.0\06_Exceptions_Homework.pdb
+C:\Users\onssh\source\repos\C#(масив, енам)\05_Exceptions_Classwork\obj\Debug\net8.0\06_Exceptions_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onssh\source\repos\C#(масив, енам)\05_Exceptions_Classwork\obj\Debug\net8.0\06_Exceptions_Homework.AssemblyInfoInputs.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\05_Exceptions_Classwork\obj\Debug\net8.0\06_Exceptions_Homework.AssemblyInfo.cs
+C:\Users\onssh\source\repos\C#(масив, енам)\05_Exceptions_Classwork\obj\Debug\net8.0\06_Exceptions_Homework.csproj.CoreCompileInputs.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\05_Exceptions_Classwork\obj\Debug\net8.0\06_Exceptions_Homework.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\05_Exceptions_Classwork\obj\Debug\net8.0\refint\06_Exceptions_Homework.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\05_Exceptions_Classwork\obj\Debug\net8.0\06_Exceptions_Homework.pdb
+C:\Users\onssh\source\repos\C#(масив, енам)\05_Exceptions_Classwork\obj\Debug\net8.0\06_Exceptions_Homework.genruntimeconfig.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\05_Exceptions_Classwork\obj\Debug\net8.0\ref\06_Exceptions_Homework.dll
