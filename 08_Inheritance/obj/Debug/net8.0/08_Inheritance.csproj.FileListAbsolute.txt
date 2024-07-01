@@ -1,0 +1,14 @@
+C:\Users\onssh\source\repos\C#(масив, енам)\08_Inheritance\obj\Debug\net8.0\08_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onssh\source\repos\C#(масив, енам)\08_Inheritance\obj\Debug\net8.0\08_Inheritance.AssemblyInfoInputs.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\08_Inheritance\obj\Debug\net8.0\08_Inheritance.AssemblyInfo.cs
+C:\Users\onssh\source\repos\C#(масив, енам)\08_Inheritance\obj\Debug\net8.0\08_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\08_Inheritance\bin\Debug\net8.0\08_Inheritance.exe
+C:\Users\onssh\source\repos\C#(масив, енам)\08_Inheritance\bin\Debug\net8.0\08_Inheritance.deps.json
+C:\Users\onssh\source\repos\C#(масив, енам)\08_Inheritance\bin\Debug\net8.0\08_Inheritance.runtimeconfig.json
+C:\Users\onssh\source\repos\C#(масив, енам)\08_Inheritance\bin\Debug\net8.0\08_Inheritance.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\08_Inheritance\bin\Debug\net8.0\08_Inheritance.pdb
+C:\Users\onssh\source\repos\C#(масив, енам)\08_Inheritance\obj\Debug\net8.0\08_Inheritance.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\08_Inheritance\obj\Debug\net8.0\refint\08_Inheritance.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\08_Inheritance\obj\Debug\net8.0\08_Inheritance.pdb
+C:\Users\onssh\source\repos\C#(масив, енам)\08_Inheritance\obj\Debug\net8.0\08_Inheritance.genruntimeconfig.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\08_Inheritance\obj\Debug\net8.0\ref\08_Inheritance.dll
