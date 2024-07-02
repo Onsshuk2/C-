@@ -1,0 +1,14 @@
+C:\Users\onssh\source\repos\C#(масив, енам)\09_Interface_Homework\bin\Debug\net8.0\09_Interface_Homework.exe
+C:\Users\onssh\source\repos\C#(масив, енам)\09_Interface_Homework\bin\Debug\net8.0\09_Interface_Homework.deps.json
+C:\Users\onssh\source\repos\C#(масив, енам)\09_Interface_Homework\bin\Debug\net8.0\09_Interface_Homework.runtimeconfig.json
+C:\Users\onssh\source\repos\C#(масив, енам)\09_Interface_Homework\bin\Debug\net8.0\09_Interface_Homework.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\09_Interface_Homework\bin\Debug\net8.0\09_Interface_Homework.pdb
+C:\Users\onssh\source\repos\C#(масив, енам)\09_Interface_Homework\obj\Debug\net8.0\09_Interface_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onssh\source\repos\C#(масив, енам)\09_Interface_Homework\obj\Debug\net8.0\09_Interface_Homework.AssemblyInfoInputs.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\09_Interface_Homework\obj\Debug\net8.0\09_Interface_Homework.AssemblyInfo.cs
+C:\Users\onssh\source\repos\C#(масив, енам)\09_Interface_Homework\obj\Debug\net8.0\09_Interface_Homework.csproj.CoreCompileInputs.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\09_Interface_Homework\obj\Debug\net8.0\09_Interface_Homework.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\09_Interface_Homework\obj\Debug\net8.0\refint\09_Interface_Homework.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\09_Interface_Homework\obj\Debug\net8.0\09_Interface_Homework.pdb
+C:\Users\onssh\source\repos\C#(масив, енам)\09_Interface_Homework\obj\Debug\net8.0\09_Interface_Homework.genruntimeconfig.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\09_Interface_Homework\obj\Debug\net8.0\ref\09_Interface_Homework.dll
