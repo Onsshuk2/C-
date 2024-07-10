@@ -1,0 +1,14 @@
+C:\Users\onssh\source\repos\C#(масив, енам)\15_Generics_Homework\bin\Debug\net8.0\15_Generics_Homework.exe
+C:\Users\onssh\source\repos\C#(масив, енам)\15_Generics_Homework\bin\Debug\net8.0\15_Generics_Homework.deps.json
+C:\Users\onssh\source\repos\C#(масив, енам)\15_Generics_Homework\bin\Debug\net8.0\15_Generics_Homework.runtimeconfig.json
+C:\Users\onssh\source\repos\C#(масив, енам)\15_Generics_Homework\bin\Debug\net8.0\15_Generics_Homework.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\15_Generics_Homework\bin\Debug\net8.0\15_Generics_Homework.pdb
+C:\Users\onssh\source\repos\C#(масив, енам)\15_Generics_Homework\obj\Debug\net8.0\15_Generics_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onssh\source\repos\C#(масив, енам)\15_Generics_Homework\obj\Debug\net8.0\15_Generics_Homework.AssemblyInfoInputs.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\15_Generics_Homework\obj\Debug\net8.0\15_Generics_Homework.AssemblyInfo.cs
+C:\Users\onssh\source\repos\C#(масив, енам)\15_Generics_Homework\obj\Debug\net8.0\15_Generics_Homework.csproj.CoreCompileInputs.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\15_Generics_Homework\obj\Debug\net8.0\15_Generics_Homework.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\15_Generics_Homework\obj\Debug\net8.0\refint\15_Generics_Homework.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\15_Generics_Homework\obj\Debug\net8.0\15_Generics_Homework.pdb
+C:\Users\onssh\source\repos\C#(масив, енам)\15_Generics_Homework\obj\Debug\net8.0\15_Generics_Homework.genruntimeconfig.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\15_Generics_Homework\obj\Debug\net8.0\ref\15_Generics_Homework.dll
