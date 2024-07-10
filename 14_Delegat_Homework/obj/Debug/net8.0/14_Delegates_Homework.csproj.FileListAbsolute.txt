@@ -1,0 +1,14 @@
+C:\Users\onssh\source\repos\C#(масив, енам)\14_Delegat_Homework\bin\Debug\net8.0\14_Delegates_Homework.exe
+C:\Users\onssh\source\repos\C#(масив, енам)\14_Delegat_Homework\bin\Debug\net8.0\14_Delegates_Homework.deps.json
+C:\Users\onssh\source\repos\C#(масив, енам)\14_Delegat_Homework\bin\Debug\net8.0\14_Delegates_Homework.runtimeconfig.json
+C:\Users\onssh\source\repos\C#(масив, енам)\14_Delegat_Homework\bin\Debug\net8.0\14_Delegates_Homework.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\14_Delegat_Homework\bin\Debug\net8.0\14_Delegates_Homework.pdb
+C:\Users\onssh\source\repos\C#(масив, енам)\14_Delegat_Homework\obj\Debug\net8.0\14_Delegates_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onssh\source\repos\C#(масив, енам)\14_Delegat_Homework\obj\Debug\net8.0\14_Delegates_Homework.AssemblyInfoInputs.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\14_Delegat_Homework\obj\Debug\net8.0\14_Delegates_Homework.AssemblyInfo.cs
+C:\Users\onssh\source\repos\C#(масив, енам)\14_Delegat_Homework\obj\Debug\net8.0\14_Delegates_Homework.csproj.CoreCompileInputs.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\14_Delegat_Homework\obj\Debug\net8.0\14_Delegates_Homework.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\14_Delegat_Homework\obj\Debug\net8.0\refint\14_Delegates_Homework.dll
+C:\Users\onssh\source\repos\C#(масив, енам)\14_Delegat_Homework\obj\Debug\net8.0\14_Delegates_Homework.pdb
+C:\Users\onssh\source\repos\C#(масив, енам)\14_Delegat_Homework\obj\Debug\net8.0\14_Delegates_Homework.genruntimeconfig.cache
+C:\Users\onssh\source\repos\C#(масив, енам)\14_Delegat_Homework\obj\Debug\net8.0\ref\14_Delegates_Homework.dll
