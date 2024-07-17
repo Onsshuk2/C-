@@ -1,0 +1,15 @@
+C:\Users\onssh\source\repos\C#_Intro\16_File_Homework\bin\Debug\net8.0\16_File_Homework.exe
+C:\Users\onssh\source\repos\C#_Intro\16_File_Homework\bin\Debug\net8.0\16_File_Homework.deps.json
+C:\Users\onssh\source\repos\C#_Intro\16_File_Homework\bin\Debug\net8.0\16_File_Homework.runtimeconfig.json
+C:\Users\onssh\source\repos\C#_Intro\16_File_Homework\bin\Debug\net8.0\16_File_Homework.dll
+C:\Users\onssh\source\repos\C#_Intro\16_File_Homework\bin\Debug\net8.0\16_File_Homework.pdb
+C:\Users\onssh\source\repos\C#_Intro\16_File_Homework\obj\Debug\net8.0\16_File_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onssh\source\repos\C#_Intro\16_File_Homework\obj\Debug\net8.0\16_File_Homework.AssemblyInfoInputs.cache
+C:\Users\onssh\source\repos\C#_Intro\16_File_Homework\obj\Debug\net8.0\16_File_Homework.AssemblyInfo.cs
+C:\Users\onssh\source\repos\C#_Intro\16_File_Homework\obj\Debug\net8.0\16_File_Homework.csproj.CoreCompileInputs.cache
+C:\Users\onssh\source\repos\C#_Intro\16_File_Homework\obj\Debug\net8.0\16_File_Homework.sourcelink.json
+C:\Users\onssh\source\repos\C#_Intro\16_File_Homework\obj\Debug\net8.0\16_File_Homework.dll
+C:\Users\onssh\source\repos\C#_Intro\16_File_Homework\obj\Debug\net8.0\refint\16_File_Homework.dll
+C:\Users\onssh\source\repos\C#_Intro\16_File_Homework\obj\Debug\net8.0\16_File_Homework.pdb
+C:\Users\onssh\source\repos\C#_Intro\16_File_Homework\obj\Debug\net8.0\16_File_Homework.genruntimeconfig.cache
+C:\Users\onssh\source\repos\C#_Intro\16_File_Homework\obj\Debug\net8.0\ref\16_File_Homework.dll
