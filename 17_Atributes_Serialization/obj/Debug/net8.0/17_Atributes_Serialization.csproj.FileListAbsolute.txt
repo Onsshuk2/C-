@@ -1,0 +1,15 @@
+C:\Users\onssh\source\repos\C#_Intro\17_Atributes_Serialization\bin\Debug\net8.0\17_Atributes_Serialization.exe
+C:\Users\onssh\source\repos\C#_Intro\17_Atributes_Serialization\bin\Debug\net8.0\17_Atributes_Serialization.deps.json
+C:\Users\onssh\source\repos\C#_Intro\17_Atributes_Serialization\bin\Debug\net8.0\17_Atributes_Serialization.runtimeconfig.json
+C:\Users\onssh\source\repos\C#_Intro\17_Atributes_Serialization\bin\Debug\net8.0\17_Atributes_Serialization.dll
+C:\Users\onssh\source\repos\C#_Intro\17_Atributes_Serialization\bin\Debug\net8.0\17_Atributes_Serialization.pdb
+C:\Users\onssh\source\repos\C#_Intro\17_Atributes_Serialization\obj\Debug\net8.0\17_Atributes_Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onssh\source\repos\C#_Intro\17_Atributes_Serialization\obj\Debug\net8.0\17_Atributes_Serialization.AssemblyInfoInputs.cache
+C:\Users\onssh\source\repos\C#_Intro\17_Atributes_Serialization\obj\Debug\net8.0\17_Atributes_Serialization.AssemblyInfo.cs
+C:\Users\onssh\source\repos\C#_Intro\17_Atributes_Serialization\obj\Debug\net8.0\17_Atributes_Serialization.csproj.CoreCompileInputs.cache
+C:\Users\onssh\source\repos\C#_Intro\17_Atributes_Serialization\obj\Debug\net8.0\17_Atributes_Serialization.sourcelink.json
+C:\Users\onssh\source\repos\C#_Intro\17_Atributes_Serialization\obj\Debug\net8.0\17_Atributes_Serialization.dll
+C:\Users\onssh\source\repos\C#_Intro\17_Atributes_Serialization\obj\Debug\net8.0\refint\17_Atributes_Serialization.dll
+C:\Users\onssh\source\repos\C#_Intro\17_Atributes_Serialization\obj\Debug\net8.0\17_Atributes_Serialization.pdb
+C:\Users\onssh\source\repos\C#_Intro\17_Atributes_Serialization\obj\Debug\net8.0\17_Atributes_Serialization.genruntimeconfig.cache
+C:\Users\onssh\source\repos\C#_Intro\17_Atributes_Serialization\obj\Debug\net8.0\ref\17_Atributes_Serialization.dll
