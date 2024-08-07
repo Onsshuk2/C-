@@ -1,0 +1,5 @@
+C:\Users\onssh\source\repos\C#_Intro\19_Factory\obj\Debug\net8.0\19_Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onssh\source\repos\C#_Intro\19_Factory\obj\Debug\net8.0\19_Factory.AssemblyInfoInputs.cache
+C:\Users\onssh\source\repos\C#_Intro\19_Factory\obj\Debug\net8.0\19_Factory.AssemblyInfo.cs
+C:\Users\onssh\source\repos\C#_Intro\19_Factory\obj\Debug\net8.0\19_Factory.csproj.CoreCompileInputs.cache
+C:\Users\onssh\source\repos\C#_Intro\19_Factory\obj\Debug\net8.0\19_Factory.sourcelink.json
