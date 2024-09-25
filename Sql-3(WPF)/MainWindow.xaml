@@ -1,0 +1,52 @@
+﻿<Window x:Class="Sql_3_WPF_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sport Shop" Height="600" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+       
+        <Label Grid.Column="0" Grid.Row="0" Content="Clients:"/>
+        <ListBox x:Name="ClientsListBox" Grid.Column="0" Grid.Row="1" Margin="5">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding FullName}"/>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+       
+        <Label Grid.Column="0" Grid.Row="2" Content="Employees:"/>
+        <ListBox x:Name="EmployeesListBox" Grid.Column="0" Grid.Row="3" Margin="5">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding FullName}"/>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        
+        <Label Grid.Column="1" Grid.Row="0" Content="Sales:"/>
+        <DataGrid x:Name="SalesDataGrid" Grid.Column="1" Grid.Row="1" Margin="5" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Product Id" Binding="{Binding ProductId}"/>
+                <DataGridTextColumn Header="Price" Binding="{Binding Price}"/>
+                <DataGridTextColumn Header="Quantity" Binding="{Binding Quantity}"/>
+                <DataGridTextColumn Header="Sale Date" Binding="{Binding SaleDate}"/>
+                <DataGridTextColumn Header="Employee Id" Binding="{Binding EmployeeId}"/>
+                <DataGridTextColumn Header="Client Id" Binding="{Binding ClientId}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        
+        <Button x:Name="AddSaleButton" Grid.Column="1" Grid.Row="2" Content="Add Sale" Click="AddSaleButton_Click" Margin="5"/>
+    </Grid>
+</Window>
