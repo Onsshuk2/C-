@@ -1,9 +1,14 @@
-﻿using System.Configuration;
-using System.Text;
+﻿using System;
+using System.CodeDom.Compiler;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Configuration;
+using System.Diagnostics;
 using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Markup;
 using Microsoft.Data.SqlClient;
 using Sql_3_WPF_.Entitis;
-
 namespace Sql_3_WPF_
 {
     public partial class MainWindow : Window
@@ -21,16 +26,18 @@ namespace Sql_3_WPF_
             LoadSales();
         }
 
+        private void InitializeComponent()
+        {
+            throw new NotImplementedException();
+        }
 
-
-       
         private void AddNewSale(Sale sale)
         {
             using (Microsoft.Data.SqlClient.SqlConnection sqlConnection = new SqlConnection(connectionString))
             {
                 sqlConnection.Open();
-                string insertQuery = @"INSERT INTO Sales (ProductId, Price, Quantity, SaleDate, EmployeeId, ClientId) 
-                                       VALUES (@ProductId, @Price, @Quantity, @SaleDate, @EmployeeId, @ClientId)";
+                string insertQuery = @"INSERT INTO Salles (ProductId, Price, Quantity, SaleDate, EmployeeId, ClientId) 
+                                       VALUES (@ProductId, @Price, @Quantity, с @EmployeeId, @ClientId)";
 
                 using (SqlCommand command = new SqlCommand(insertQuery, sqlConnection))
                 {
@@ -73,7 +80,7 @@ namespace Sql_3_WPF_
                 }
             }
 
-            ClientsListBox.ItemsSource = clients; // доданий рядок коду
+            //ClientsListBox.ItemsSource = clients; // доданий рядок коду
         }
 
         private void LoadEmployees()
@@ -101,7 +108,7 @@ namespace Sql_3_WPF_
                 }
             }
 
-            EmployeesListBox.ItemsSource = employees; // доданий рядок коду
+            //EmployeesListBox.ItemsSource = employees; // доданий рядок коду
         }
 
         private void LoadSales()
@@ -111,7 +118,7 @@ namespace Sql_3_WPF_
             using (SqlConnection sqlConnection = new SqlConnection(connectionString))
             {
                 sqlConnection.Open();
-                string selectQuery = "SELECT Id, ProductId, Price, Quantity, SaleDate, EmployeeId, ClientId FROM Sales";
+                string selectQuery = "SELECT Id, ProductId, Price, Quantity, SaleDate, EmployeeId, ClientId FROM Salles";
 
                 using (SqlCommand command = new SqlCommand(selectQuery, sqlConnection))
                 {
@@ -133,8 +140,8 @@ namespace Sql_3_WPF_
                     }
                 }
             }
-
-            SalesDataGrid.ItemsSource = sales; // доданий рядок коду
+            
+            //SalesDataGrid.ItemsSource = sales; // доданий рядок коду
         }
 
 
