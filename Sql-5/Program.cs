@@ -21,10 +21,7 @@ namespace Sql_5
             this.Database.EnsureCreated();
         }
 
-        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        //{
-        //    optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-LCTPOKA\\SQLEXPRESS;Initial Catalog=MusicDb;Integrated Security=True");
-        //}
+        
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
