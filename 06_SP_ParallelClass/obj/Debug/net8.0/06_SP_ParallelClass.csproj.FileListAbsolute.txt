@@ -1,0 +1,14 @@
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\06_SP_ParallelClass\bin\Debug\net8.0\06_SP_ParallelClass.exe
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\06_SP_ParallelClass\bin\Debug\net8.0\06_SP_ParallelClass.deps.json
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\06_SP_ParallelClass\bin\Debug\net8.0\06_SP_ParallelClass.runtimeconfig.json
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\06_SP_ParallelClass\bin\Debug\net8.0\06_SP_ParallelClass.dll
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\06_SP_ParallelClass\bin\Debug\net8.0\06_SP_ParallelClass.pdb
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\06_SP_ParallelClass\obj\Debug\net8.0\06_SP_ParallelClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\06_SP_ParallelClass\obj\Debug\net8.0\06_SP_ParallelClass.AssemblyInfoInputs.cache
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\06_SP_ParallelClass\obj\Debug\net8.0\06_SP_ParallelClass.AssemblyInfo.cs
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\06_SP_ParallelClass\obj\Debug\net8.0\06_SP_ParallelClass.csproj.CoreCompileInputs.cache
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\06_SP_ParallelClass\obj\Debug\net8.0\06_SP_ParallelClass.dll
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\06_SP_ParallelClass\obj\Debug\net8.0\refint\06_SP_ParallelClass.dll
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\06_SP_ParallelClass\obj\Debug\net8.0\06_SP_ParallelClass.pdb
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\06_SP_ParallelClass\obj\Debug\net8.0\06_SP_ParallelClass.genruntimeconfig.cache
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\06_SP_ParallelClass\obj\Debug\net8.0\ref\06_SP_ParallelClass.dll
