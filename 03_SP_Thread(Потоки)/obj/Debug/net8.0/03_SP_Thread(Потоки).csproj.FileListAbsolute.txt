@@ -1,0 +1,14 @@
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\03_SP_Thread(Потоки)\bin\Debug\net8.0\03_SP_Thread(Потоки).exe
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\03_SP_Thread(Потоки)\bin\Debug\net8.0\03_SP_Thread(Потоки).deps.json
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\03_SP_Thread(Потоки)\bin\Debug\net8.0\03_SP_Thread(Потоки).runtimeconfig.json
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\03_SP_Thread(Потоки)\bin\Debug\net8.0\03_SP_Thread(Потоки).dll
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\03_SP_Thread(Потоки)\bin\Debug\net8.0\03_SP_Thread(Потоки).pdb
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\03_SP_Thread(Потоки)\obj\Debug\net8.0\03_SP_Thread(Потоки).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\03_SP_Thread(Потоки)\obj\Debug\net8.0\03_SP_Thread(Потоки).AssemblyInfoInputs.cache
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\03_SP_Thread(Потоки)\obj\Debug\net8.0\03_SP_Thread(Потоки).AssemblyInfo.cs
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\03_SP_Thread(Потоки)\obj\Debug\net8.0\03_SP_Thread(Потоки).csproj.CoreCompileInputs.cache
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\03_SP_Thread(Потоки)\obj\Debug\net8.0\03_SP_Thread(Потоки).dll
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\03_SP_Thread(Потоки)\obj\Debug\net8.0\refint\03_SP_Thread(Потоки).dll
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\03_SP_Thread(Потоки)\obj\Debug\net8.0\03_SP_Thread(Потоки).pdb
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\03_SP_Thread(Потоки)\obj\Debug\net8.0\03_SP_Thread(Потоки).genruntimeconfig.cache
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\03_SP_Thread(Потоки)\obj\Debug\net8.0\ref\03_SP_Thread(Потоки).dll
