@@ -1,0 +1,14 @@
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\04_SP_Task\bin\Debug\net8.0\04_SP_Task.exe
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\04_SP_Task\bin\Debug\net8.0\04_SP_Task.deps.json
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\04_SP_Task\bin\Debug\net8.0\04_SP_Task.runtimeconfig.json
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\04_SP_Task\bin\Debug\net8.0\04_SP_Task.dll
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\04_SP_Task\bin\Debug\net8.0\04_SP_Task.pdb
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\04_SP_Task\obj\Debug\net8.0\04_SP_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\04_SP_Task\obj\Debug\net8.0\04_SP_Task.AssemblyInfoInputs.cache
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\04_SP_Task\obj\Debug\net8.0\04_SP_Task.AssemblyInfo.cs
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\04_SP_Task\obj\Debug\net8.0\04_SP_Task.csproj.CoreCompileInputs.cache
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\04_SP_Task\obj\Debug\net8.0\04_SP_Task.dll
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\04_SP_Task\obj\Debug\net8.0\refint\04_SP_Task.dll
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\04_SP_Task\obj\Debug\net8.0\04_SP_Task.pdb
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\04_SP_Task\obj\Debug\net8.0\04_SP_Task.genruntimeconfig.cache
+C:\Users\onssh\source\repos\02_SP_Thread(Потоки)\04_SP_Task\obj\Debug\net8.0\ref\04_SP_Task.dll
