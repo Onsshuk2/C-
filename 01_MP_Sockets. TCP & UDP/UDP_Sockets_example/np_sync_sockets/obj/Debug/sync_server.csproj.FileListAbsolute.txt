@@ -1,0 +1,29 @@
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\np_sync_sockets\bin\Debug\np_sync_sockets.exe.config
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\np_sync_sockets\bin\Debug\np_sync_sockets.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\np_sync_sockets\bin\Debug\np_sync_sockets.pdb
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\np_sync_sockets\obj\Debug\sync_server.csproj.AssemblyReference.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\np_sync_sockets\obj\Debug\sync_server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\np_sync_sockets\obj\Debug\sync_server.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\np_sync_sockets\obj\Debug\np_sync_sockets.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\13. Network Programming\02 Sync Sockets\UDP Sockets\UDP_Sockets_example\np_sync_sockets\obj\Debug\np_sync_sockets.pdb
+C:\Users\helen\Desktop\Work\Network Programming\1\UDP_Sockets_example\np_sync_sockets\bin\Debug\np_sync_sockets.exe.config
+C:\Users\helen\Desktop\Work\Network Programming\1\UDP_Sockets_example\np_sync_sockets\bin\Debug\np_sync_sockets.exe
+C:\Users\helen\Desktop\Work\Network Programming\1\UDP_Sockets_example\np_sync_sockets\bin\Debug\np_sync_sockets.pdb
+C:\Users\helen\Desktop\Work\Network Programming\1\UDP_Sockets_example\np_sync_sockets\obj\Debug\sync_server.csproj.AssemblyReference.cache
+C:\Users\helen\Desktop\Work\Network Programming\1\UDP_Sockets_example\np_sync_sockets\obj\Debug\sync_server.csproj.CoreCompileInputs.cache
+C:\Users\helen\Desktop\Work\Network Programming\1\UDP_Sockets_example\np_sync_sockets\obj\Debug\np_sync_sockets.exe
+C:\Users\helen\Desktop\Work\Network Programming\1\UDP_Sockets_example\np_sync_sockets\obj\Debug\np_sync_sockets.pdb
+C:\Users\helen\Desktop\Work\12_Network Programming\1\UDP_Sockets_example\np_sync_sockets\bin\Debug\np_sync_sockets.exe.config
+C:\Users\helen\Desktop\Work\12_Network Programming\1\UDP_Sockets_example\np_sync_sockets\bin\Debug\np_sync_sockets.exe
+C:\Users\helen\Desktop\Work\12_Network Programming\1\UDP_Sockets_example\np_sync_sockets\bin\Debug\np_sync_sockets.pdb
+C:\Users\helen\Desktop\Work\12_Network Programming\1\UDP_Sockets_example\np_sync_sockets\obj\Debug\sync_server.csproj.AssemblyReference.cache
+C:\Users\helen\Desktop\Work\12_Network Programming\1\UDP_Sockets_example\np_sync_sockets\obj\Debug\sync_server.csproj.CoreCompileInputs.cache
+C:\Users\helen\Desktop\Work\12_Network Programming\1\UDP_Sockets_example\np_sync_sockets\obj\Debug\np_sync_sockets.exe
+C:\Users\helen\Desktop\Work\12_Network Programming\1\UDP_Sockets_example\np_sync_sockets\obj\Debug\np_sync_sockets.pdb
+C:\Users\onssh\OneDrive\Робочий стіл\UDP_Sockets_example\np_sync_sockets\bin\Debug\np_sync_sockets.exe.config
+C:\Users\onssh\OneDrive\Робочий стіл\UDP_Sockets_example\np_sync_sockets\bin\Debug\np_sync_sockets.exe
+C:\Users\onssh\OneDrive\Робочий стіл\UDP_Sockets_example\np_sync_sockets\bin\Debug\np_sync_sockets.pdb
+C:\Users\onssh\OneDrive\Робочий стіл\UDP_Sockets_example\np_sync_sockets\obj\Debug\sync_server.csproj.AssemblyReference.cache
+C:\Users\onssh\OneDrive\Робочий стіл\UDP_Sockets_example\np_sync_sockets\obj\Debug\sync_server.csproj.CoreCompileInputs.cache
+C:\Users\onssh\OneDrive\Робочий стіл\UDP_Sockets_example\np_sync_sockets\obj\Debug\np_sync_sockets.exe
+C:\Users\onssh\OneDrive\Робочий стіл\UDP_Sockets_example\np_sync_sockets\obj\Debug\np_sync_sockets.pdb
