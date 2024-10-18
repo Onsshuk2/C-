@@ -42,10 +42,14 @@ namespace ForbiddenWordsFinder
             };
 
             if (openFileDialog.ShowDialog() == true)
-            {
-                selectedFilePaths = openFileDialog.FileNames.ToList();
-                txtResults.Text = string.Join(Environment.NewLine, selectedFilePaths);
-            }
+{
+    selectedFilePaths = openFileDialog.FileNames.ToList();
+    foreach (string s in selectedFilePaths)
+    { 
+       txtResults.Text += File.ReadAllText(s);
+    }
+   
+}
         }
 
         private async void Start_Click(object sender, RoutedEventArgs e)
