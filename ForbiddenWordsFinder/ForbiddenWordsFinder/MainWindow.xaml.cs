@@ -11,8 +11,8 @@ namespace ForbiddenWordsFinder
 
         public MainWindow()
         {
-            InitializeComponent();
-            fileSearcher = new FileSearcher("C:\\Users\\onssh\\OneDrive\\Робочий стіл");
+           InitializeComponent();
+fileSearcher = new FileSearcher($"{Environment.GetFolderPath(Environment.SpecialFolder.Desktop)}");
         }
 
         private void LoadFromFile_Click(object sender, RoutedEventArgs e)
