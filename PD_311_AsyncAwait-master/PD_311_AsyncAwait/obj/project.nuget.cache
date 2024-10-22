@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JUc754DB7rIe2gMreIIui0ia5PmsBSxQh4RtSKpnajCnfIWaovk01oD+djKgmOh5DRGpb9xun/nIrVnP5Fpypw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\onssh\\OneDrive\\Робочий стіл\\PD_311_AsyncAwait-master\\PD_311_AsyncAwait\\PD_311_AsyncAwait.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onssh\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.5\\microsoft-windowsapicodepack-core.1.1.5.nupkg.sha512",
+    "C:\\Users\\onssh\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.5\\microsoft-windowsapicodepack-shell.1.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
