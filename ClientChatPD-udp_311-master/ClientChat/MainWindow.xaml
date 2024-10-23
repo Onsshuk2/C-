@@ -1,0 +1,30 @@
+﻿<Window x:Class="ClientChat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chat Client" Height="450" Width="800">
+    <DockPanel>
+        <TextBlock DockPanel.Dock="Top" TextAlignment="Center" FontSize="24" FontWeight="Bold" Margin="10">Chat Application</TextBlock>
+
+       
+        <DockPanel DockPanel.Dock="Top" Margin="10">
+            <Label Margin="5">Message:</Label>
+            <TextBox Margin="5" VerticalContentAlignment="Center" Name="msgTextBox" Width="400" />
+            <Button DockPanel.Dock="Right" Padding="10,5" Margin="5" Click="Send_Button_Click">Send</Button>
+        </DockPanel>
+
+       
+        <DockPanel DockPanel.Dock="Top" Margin="10">
+            <Button DockPanel.Dock="Right" Padding="10,5" Margin="5" Click="Leave_Button_Click" IsEnabled="False" Name="leaveButton">Leave</Button>
+            <Button DockPanel.Dock="Right" Padding="10,5" Margin="5" Click="Join_Button_Click" Name="joinButton">Join</Button>
+        </DockPanel>
+
+        
+        <ListBox ItemsSource="{Binding}" Margin="10" Name="chatListBox">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding}" FontSize="14" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </DockPanel>
+</Window>
