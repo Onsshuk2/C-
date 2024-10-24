@@ -1,0 +1,74 @@
+﻿<Window x:Class="EmailSender.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Email Sender" Height="800" Width="600" ResizeMode="NoResize"
+        FontFamily="Segoe UI" FontSize="14">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFEECDA3" Offset="0"/>
+            <GradientStop Color="#FFEF629F" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+
+    <Grid Margin="0,0,-14,0">
+        <StackPanel Margin="30" VerticalAlignment="Center">
+            
+            <TextBlock Text="Email відправника:" Foreground="White" FontWeight="Bold" Margin="0,0,0,5"/>
+            <TextBox x:Name="SenderEmailTextBox" Width="350" Height="30" 
+                     BorderBrush="#FFEF629F" BorderThickness="2" Padding="5"/>
+
+            
+            <TextBlock Text="Пароль:" Foreground="White" FontWeight="Bold" Margin="15,10,0,5"/>
+            <PasswordBox x:Name="PasswordBox" Width="350" Height="30" 
+                         BorderBrush="#FFEF629F" BorderThickness="2" Padding="5"/>
+
+            
+            <TextBlock Text="Email отримувача:" Foreground="White" FontWeight="Bold" Margin="15,10,0,5"/>
+            <TextBox x:Name="ReceiverEmailTextBox" Width="350" Height="30" 
+                     BorderBrush="#FFEF629F" BorderThickness="2" Padding="5"/>
+
+           
+            <TextBlock Text="Тема:" Foreground="White" FontWeight="Bold" Margin="15,10,0,5"/>
+            <TextBox x:Name="SubjectTextBox" Width="350" Height="30" 
+                     BorderBrush="#FFEF629F" BorderThickness="2" Padding="5"/>
+
+            
+            <TextBlock Text="Текст повідомлення:" Foreground="White" FontWeight="Bold" Margin="15,10,0,5"/>
+            <TextBox x:Name="BodyTextBox" Width="350" Height="100" TextWrapping="Wrap" AcceptsReturn="True" 
+                     BorderBrush="#FFEF629F" BorderThickness="2" Padding="5"/>
+
+            <CheckBox x:Name="IsImportantCheckBox" Content="Позначити як важливе" 
+                      Foreground="White" FontWeight="Bold" Margin="0,10,0,0"/>
+
+           
+            <Button Content="Додати вкладення" Click="AttachFileButton_Click" Width="150" Height="35" Margin="0,10,0,5">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="AntiqueWhite"/>
+                        <Setter Property="Foreground" Value="#FFEF629F"/>
+                        <Setter Property="FontWeight" Value="Bold"/>
+                        <Setter Property="BorderBrush" Value="Transparent"/>
+                        
+                        <Setter Property="Padding" Value="10,5"/>
+                    </Style>
+                </Button.Style>
+            </Button>
+
+            <TextBlock x:Name="AttachmentLabel" Text="Вкладення не додано" Foreground="White" Margin="0,5,0,0"/>
+
+           
+            <Button Content="Відправити" Click="SendEmailButton_Click" Width="150" Height="35" Margin="0,15,0,0">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="AntiqueWhite"/>
+                        <Setter Property="Foreground" Value="#FFEF629F"/>
+                        <Setter Property="FontWeight" Value="Bold"/>
+                        <Setter Property="BorderBrush" Value="Transparent"/>
+                        
+                        <Setter Property="Padding" Value="10,5"/>
+                    </Style>
+                </Button.Style>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
